@@ -1,0 +1,54 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+  .avatar__img {
+    max-width: 160px;
+     margin-top: 20px;
+  }
+  .social__link {
+    font-size: 20px;
+     margin-right: 10px;
+       color: red
+  }
+  .link__icon {
+    width: 20px;
+  }
+  .subtitle {
+    color: red;
+  }
+  .title__expir {
+    color: orange;
+  }
+  .title__expir:hover {
+      color: purple;
+      cursor: pointer;
+  }
+  .main__paragraph {
+    color: green
+  }
+  .main__paragraph:hover {
+text-transform: uppercase;
+font-weight: bold;
+cursor: pointer;
+  }
+  .title__lifestyle {
+    color: orange;
+  }
+  .title__lifestyle:hover {
+    color: red;
+    cursor: pointer;
+  }
+  .text-content {
+    border: 4px double black; margin-bottom: 5px;
+  }
+  .title-qualities {
+    color: rgb(235, 112, 204); margin-bottom: 20px;
+
+  }
+  .title-qualities:hover {
+    color: #8770eb;
+    cursor: pointer;
+  }
+  .subtitle-qualities {
+      color: red;
+  }
